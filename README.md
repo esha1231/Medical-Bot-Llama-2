@@ -1,4 +1,7 @@
 # Medical QA Bot
+<p align="center">
+  <img src="https://github.com/esha1231/Medical-Bot-Llama-2/assets/111673084/925041e1-77be-4123-9c8b-c44145643be8" alt="Medical QA Bot Screenshot" width="600">
+</p>
 
 This project implements a question-answering system for medical queries using PDF documents as the knowledge base. It leverages large language models (Llama 2) and vector stores for efficient retrieval and answering. It uses LangChain for natural language processing tasks and ChainLit for chatbot functionality.
 
